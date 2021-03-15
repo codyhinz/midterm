@@ -77,13 +77,15 @@ td {
     font-size: 0.6rem;
 }
 
+@media screen and (min-width: 280px) {
+    header {
+      font-size: 2rem;
+    }
+  }
+
 @media only screen and (min-width: 400px) {
     html, td {
         font-size: 0.8rem;
-    }
-
-    header {
-        font-size: 1rem;
     }
 
 }
@@ -92,11 +94,6 @@ td {
     html, td {
         font-size: 0.8rem;
     }
-
-    header {
-        font-size: 2rem;
-    }
-
 }
 
 @media only screen and (min-width: 768px) {

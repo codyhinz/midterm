@@ -26,7 +26,7 @@
             }
 
             .add_vehicle__form {
-                border: 2px solid black;
+                border: 1px solid black;
                 border-radius: 1px;
                 display: flex;
                 flex-direction: column;
@@ -54,7 +54,7 @@
             }
 
             .edit_vehicle__form {
-                border: 2px solid black;
+                border: 1px solid black;
                 border-radius: 5px;
                 display: flex;
                 flex-direction: column;
