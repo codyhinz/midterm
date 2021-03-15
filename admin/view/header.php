@@ -1,6 +1,6 @@
-<?php include('../View/header.php'); ?>
+<?php include('../view/header.php'); ?>
     <head>
-        <link rel="stylesheet" href="../View/css/style.css">
+        <link rel="stylesheet" href="../view/css/style.css">
         <style>
             @media only screen and (min-width: 375px) {
                 td {
